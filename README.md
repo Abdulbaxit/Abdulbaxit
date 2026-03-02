@@ -29,7 +29,7 @@
 
 ---
 
-## 🔥 Current Projects
+##  Current Projects
 - 🧠 Autism Emotion Synergy (ML-based emotion recognition tool)
 - 🤖 AI Job Description Generator
 - 📚 Knowledge Base Management System
