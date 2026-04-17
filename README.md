@@ -50,24 +50,7 @@ Full-Stack Software Developer specializing in building robust backend systems, m
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulbaxit&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-## 🎯 Featured Projects  
-
-### 🔹 **Autism Emotion Synergy**
-ML-based emotion recognition tool. 
-
-➡️ [Update Your Link Here](https://github.com/Abdulbaxit)
-
-### 🔹 **AI Job Description Generator**
-Automates the creation of professional job descriptions using AI.
-
-➡️ [Update Your Link Here](https://github.com/Abdulbaxit)
-
-### 🔹 **Knowledge Base Management System**
-A centralized platform for storing and querying documentation.
-
-➡️ [Update Your Link Here](https://github.com/Abdulbaxit)
 
 ---
 
