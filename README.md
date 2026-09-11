@@ -10,7 +10,7 @@ Software Engineer based in Lahore, Pakistan. I build AI systems and the backends
 that carry them into production — LLM pipelines, multi-tenant APIs, background-job
 infrastructure — along with the full-stack applications on top of them.
 
-Currently building **Implement AI** at Techanzy.
+Currently building **[Implement AI](https://implementai.io)** at Techanzy.
 
 ---
 
@@ -18,7 +18,7 @@ Currently building **Implement AI** at Techanzy.
 
 | Project | Context | Outcome |
 |---|---|---|
-| **Implement AI** | AI SaaS platform · Techanzy | Multi-tenant APIs and background-job infrastructure, shipped via Docker and GitHub Actions |
+| **[Implement AI](https://implementai.io)** | AI SaaS platform · Techanzy | Multi-tenant APIs and background-job infrastructure, shipped via Docker and GitHub Actions |
 | **Legiflow** | AI legal document pipeline · Devsarch | 90% reduction in manual document processing time |
 | **LLM Evaluator** | Model quality assurance · Turing | A repeatable regression check before shipping model updates |
 | **Agentic AI Gatekeeper** | LangChain · FastAPI · Redis | Cuts malformed and unsafe prompts before they reach the model |
@@ -53,19 +53,11 @@ Ten projects with full case studies → **[abdulbaxit.github.io/portfolio](https
 
 ## GitHub
 
-<!-- Host for the two stats cards below. The shared public instance is often
-     down (503 / DEPLOYMENT_PAUSED). To make them reliable, fork
-     https://github.com/anuraghazra/github-readme-stats, deploy it to your own
-     Vercel account, and replace both occurrences of
-     github-readme-stats.vercel.app with your-instance.vercel.app -->
+<!-- Rendered by .github/workflows/metrics.yml and committed to this repo, so it
+     never depends on a third-party service being awake. -->
 
 <p align="center">
-  <img alt="GitHub stats" height="160" src="https://github-readme-stats.vercel.app/api?username=Abdulbaxit&show_icons=true&theme=tokyonight" />
-  <img alt="GitHub streak" height="160" src="https://streak-stats.demolab.com/?user=Abdulbaxit&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img alt="Top languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulbaxit&layout=compact&theme=tokyonight" />
+  <img alt="GitHub metrics" src="github-metrics.svg" />
 </p>
 
 ---
