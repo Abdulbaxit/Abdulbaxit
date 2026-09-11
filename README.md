@@ -51,6 +51,25 @@ Ten projects with full case studies → **[abdulbaxit.github.io/portfolio](https
 
 ---
 
+## GitHub
+
+<!-- Host for the two stats cards below. The shared public instance is often
+     down (503 / DEPLOYMENT_PAUSED). To make them reliable, fork
+     https://github.com/anuraghazra/github-readme-stats, deploy it to your own
+     Vercel account, and replace both occurrences of
+     github-readme-stats.vercel.app with your-instance.vercel.app -->
+
+<p align="center">
+  <img alt="GitHub stats" height="160" src="https://github-readme-stats.vercel.app/api?username=Abdulbaxit&show_icons=true&theme=tokyonight" />
+  <img alt="GitHub streak" height="160" src="https://streak-stats.demolab.com/?user=Abdulbaxit&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img alt="Top languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulbaxit&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## Connect
 
 <p align="left">
@@ -58,24 +77,3 @@ Ten projects with full case studies → **[abdulbaxit.github.io/portfolio](https
   <a href="https://www.linkedin.com/in/abdul-basit-761062199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" /></a>
   <a href="mailto:abasita33@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<!--
-GitHub stats cards are intentionally omitted.
-
-The public github-readme-stats instance (github-readme-stats.vercel.app) is
-rate-limited by its shared Vercel quota and regularly returns 503, which shows
-up here as a broken image. To use them reliably, fork
-https://github.com/anuraghazra/github-readme-stats, deploy it to your own Vercel
-account, and uncomment the block below with YOUR-INSTANCE swapped in:
-
-<p align="center">
-  <img alt="GitHub stats" height="160" src="https://YOUR-INSTANCE.vercel.app/api?username=Abdulbaxit&show_icons=true&theme=tokyonight" />
-  <img alt="Top languages" height="160" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Abdulbaxit&layout=compact&theme=tokyonight" />
-</p>
-
-The streak card below works from a browser but is often slow to respond:
-
-<p align="center">
-  <img alt="GitHub streak" height="160" src="https://streak-stats.demolab.com/?user=Abdulbaxit&theme=tokyonight" />
-</p>
--->
