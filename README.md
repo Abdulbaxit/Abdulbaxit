@@ -1,63 +1,81 @@
-<!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=4F8CC9&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Abdul+Basit;Full+Stack+Software+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Python;Scalable+Systems+%7C+Automation+%7C+AI" />
+  <img alt="Abdul Basit — Software Engineer: AI systems, LLM pipelines, full-stack" src="https://readme-typing-svg.demolab.com?size=28&duration=2800&color=4F8CC9&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Abdul+Basit;Software+Engineer;AI+Systems+%7C+LLM+Pipelines+%7C+Full-Stack;FastAPI+%7C+Next.js+%7C+PostgreSQL" />
 </p>
 
 ---
 
-## 🚀 About Me  
-Full-Stack Software Developer specializing in building robust backend systems, modern web interfaces, and integrating machine learning models into production-ready applications. With experience using **React, Next.js, Node.js, Python, PostgreSQL, Docker, and GCP**, I enjoy turning complex problems into scalable, user-facing solutions.
+## About
+
+Software Engineer based in Lahore, Pakistan. I build AI systems and the backends
+that carry them into production — LLM pipelines, multi-tenant APIs, background-job
+infrastructure — along with the full-stack applications on top of them.
+
+Currently building **Implement AI** at Techanzy.
 
 ---
 
-## 🛠️ Tech Stack  
+## Selected work
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+| Project | Context | Outcome |
+|---|---|---|
+| **Implement AI** | AI SaaS platform · Techanzy | Multi-tenant APIs and background-job infrastructure, shipped via Docker and GitHub Actions |
+| **Legiflow** | AI legal document pipeline · Devsarch | 90% reduction in manual document processing time |
+| **LLM Evaluator** | Model quality assurance · Turing | A repeatable regression check before shipping model updates |
+| **Agentic AI Gatekeeper** | LangChain · FastAPI · Redis | Cuts malformed and unsafe prompts before they reach the model |
+| **[Happy Fish](https://happyfish.voltade.com)** | Live web application · Voltade | Shipped to production and in active use |
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### **Database & Data**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Ten projects with full case studies → **[abdulbaxit.github.io/portfolio](https://abdulbaxit.github.io/portfolio/)**
 
 ---
 
-## 📈 GitHub Stats  
+## Tech
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Abdulbaxit&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulbaxit&theme=tokyonight" />
-</p>
+**AI & Backend**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulbaxit&layout=compact&theme=tokyonight" />
-</p>
+**Frontend**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
-
+**Data & Infrastructure**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 
 ---
 
-## 📬 Connect With Me  
+## Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdul-basit-761062199/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abasita33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://abdulbaxit.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=safari&logoColor=white" /></a>
+  <a href="https://abdulbaxit.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=safari&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdul-basit-761062199/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" /></a>
+  <a href="mailto:abasita33@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+<!--
+GitHub stats cards are intentionally omitted.
+
+The public github-readme-stats instance (github-readme-stats.vercel.app) is
+rate-limited by its shared Vercel quota and regularly returns 503, which shows
+up here as a broken image. To use them reliably, fork
+https://github.com/anuraghazra/github-readme-stats, deploy it to your own Vercel
+account, and uncomment the block below with YOUR-INSTANCE swapped in:
+
+<p align="center">
+  <img alt="GitHub stats" height="160" src="https://YOUR-INSTANCE.vercel.app/api?username=Abdulbaxit&show_icons=true&theme=tokyonight" />
+  <img alt="Top languages" height="160" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Abdulbaxit&layout=compact&theme=tokyonight" />
+</p>
+
+The streak card below works from a browser but is often slow to respond:
+
+<p align="center">
+  <img alt="GitHub streak" height="160" src="https://streak-stats.demolab.com/?user=Abdulbaxit&theme=tokyonight" />
+</p>
+-->
