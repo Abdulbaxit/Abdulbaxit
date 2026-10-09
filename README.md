@@ -24,7 +24,7 @@ Currently building **[Implement AI](https://implementai.io)** at Techanzy.
 | **Agentic AI Gatekeeper** | LangChain · FastAPI · Redis | Cuts malformed and unsafe prompts before they reach the model |
 | **[Happy Fish](https://happyfish.voltade.com)** | Live web application · Voltade | Shipped to production and in active use |
 
-Ten projects with full case studies → **[abdulbaxit.github.io/portfolio](https://abdulbaxit.github.io/portfolio/)**
+Ten projects with full case studies → **[abdulbaxit.github.io/portfolio](https://abdulbaxit.github.io/)**
 
 ---
 
