@@ -2,8 +2,8 @@ name: GitHub metrics
 
 on:
   schedule:
-    - cron: "0 2 * * *"     # daily, 02:00 UTC
-  workflow_dispatch:         # run by hand from the Actions tab
+    - cron: "0 2 * * *"
+  workflow_dispatch:
   push:
     branches: [main]
 
@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: Abdulbaxit
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-metrics.svg

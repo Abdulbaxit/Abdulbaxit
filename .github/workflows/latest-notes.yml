@@ -1,0 +1,20 @@
+name: Latest notes
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  notes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: gautamkrishnar/blog-post-workflow@1.9.7
+        with:
+          feed_list: "https://abdulbaxit.github.io/feed.xml"
+          max_post_count: 5
+          commit_message: "Update latest notes"
